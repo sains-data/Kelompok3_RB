@@ -14,7 +14,7 @@ Disusun oleh:
 
 **Deskripsi:**
 
-Proyek ini bertujuan untuk melakukan pemodelan dengan metode LSTM menggunakan data Garuda Indonesia 2013 sampai 2023. penelitian ini bertujuan untuk mengaplikasikan metode LSTM dalam menganalisis pergerakan harga saham Garuda Indonesia. Dengan menggunakan data harga saham historis bersama dengan state dari model LSTM, penelitian ini diharapkan dapat memberikan wawasan yang lebih mendalam tentang pergerakan harga saham Garuda Indonesia, memprediksi tren pasar, dan membantu para investor dalam mengambil keputusan investasi yang lebih cerdas. dari pemodelan dilakukan evaluasi kinerja model menggunakan MAE, RMSE, MAPE, dan RMSPE.
+Proyek ini bertujuan untuk mengaplikasikan metode LSTM dalam menganalisis pergerakan harga saham Garuda Indonesia. Dengan menggunakan data harga saham historis bersama dengan state dari model LSTM, penelitian ini diharapkan dapat memberikan wawasan yang lebih mendalam tentang pergerakan harga saham Garuda Indonesia, memprediksi tren pasar, dan membantu para investor dalam mengambil keputusan investasi yang lebih cerdas. dari pemodelan dilakukan evaluasi kinerja model menggunakan MAE, RMSE, MAPE, dan RMSPE.
 
 **Metode:**
 
