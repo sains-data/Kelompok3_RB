@@ -22,7 +22,7 @@ Metode yang digunakan dalam proyek ini adalah metode LSTM (Long Short-Term Memor
 
 **Data:**
 
-Data yang digunakan adalah data saham emiten maskapai BUMN yakni PT Garuda Indonesia Tbk (GIAA) bersumber dari aplikasi BNI Sekuritas. Data yang dipergunakan mulai dari 08-01-2013 sampai 08-31-2023, total data berjumlah 2444. Terdapat 6 variabel.
+Data yang digunakan adalah data saham emiten maskapai BUMN yakni PT Garuda Indonesia Tbk (GIAA) bersumber dari aplikasi BNI Sekuritas. Data yang dipergunakan mulai dari 08-01-2013 sampai 08-31-2023, total data berjumlah 2444 dan 6 variabel.
 
 **Hasil:**
 
@@ -30,6 +30,3 @@ Tingkat keakuratan metode LSTM yang digunakan dalam memprediksi gerakan saham Ga
 
 ![image](https://github.com/sains-data/Kelompok3_RB/assets/124365388/051b6010-1489-49b0-88f9-c5cc7f045505)
 
-link deploy streamlit app prediksi harga saham PTgaruda indonesia:
-
-https://sains-data-kelompok3-rb-app-dh2uis.streamlit.app/
