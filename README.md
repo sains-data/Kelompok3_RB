@@ -18,11 +18,22 @@ Proyek ini bertujuan untuk mengaplikasikan metode LSTM dalam menganalisis perger
 
 **Metode:**
 
-Metode yang digunakan dalam proyek ini adalah metode LSTM (Long Short-Term Memory). LSTM adalah model jaringan saraf tiruan yang dapat mempelajari pola temporal dalam data. Dalam proyek ini, LSTM digunakan untuk menganalisis pergerakan harga saham
+Metode yang digunakan dalam proyek ini adalah metode LSTM (Long Short-Term Memory). LSTM adalah model jaringan saraf tiruan yang dapat mempelajari pola temporal dalam data. Dalam proyek ini, LSTM digunakan untuk menganalisis pergerakan harga saham.
 
 **Data:**
 
 Data yang digunakan adalah data saham emiten maskapai BUMN yakni PT Garuda Indonesia Tbk (GIAA) bersumber dari aplikasi BNI Sekuritas. Data yang dipergunakan mulai dari 08-01-2013 sampai 08-31-2023, total data berjumlah 2444 dan 6 variabel.
+
+**Tahapan:**
+
+Adapun proses yang dilakukan untuk memperoleh pemodelan dengan metode LSTM sebagai berikut:
+1. Import Data di tools google colab
+2. Melakukan prapemrosesan sebagai tahap untuk mengetahui kriteria variabel data
+3. Melakukan EDA sebagai tahap ekplorasi data analisis untuk melakukan tahap statistika dan beberapa visualisai yang diperlukan
+4. Melakukan Scalling data dengan tujuan untuk melakukan skala antar data tidak memiliki jarak yang terlalu jauh
+5. Splitting data sebagai tahap pembagian data train (data latih model( dan data test (data uji)
+7. Pemodelan dengan metode LSTM
+8. Evaluasi model, penelitian menggunakan MAE, RMSE, MAPE, dan RMSPE.
 
 **Hasil:**
 
